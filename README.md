@@ -1,2 +1,2 @@
 # Food-website
- professional Foodwebsite design created by using HTML, CSS 
+ professional Foodwebsite design, created by using HTML, CSS 
